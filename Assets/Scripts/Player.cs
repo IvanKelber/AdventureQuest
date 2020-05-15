@@ -14,6 +14,9 @@ public class Player : MonoBehaviour
     private Vector2 velocity = Vector2.zero;
     private PlayerController controller;
 
+    [SerializeField]
+    private Stats playerStats;
+
     // Start is called before the first frame update
     void Awake()
     {

@@ -349,6 +349,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   walkSpeed: 5
   runSpeed: 8
+  playerStats: {fileID: 11400000, guid: b56fb214512ad47f2a881a9c6fa35861, type: 2}
 --- !u!61 &1850992607
 BoxCollider2D:
   m_ObjectHideFlags: 0
